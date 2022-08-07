@@ -7,3 +7,9 @@ The sword is controlled via OSC Messages (via local network). Android phone app 
 As for the blender part, the OSC Messages are recieved and scaled accordingly through Cycling '74 Max-MSP.
 
 ![screen-gif](./osc_sword_demo.gif)
+
+
+## Basic Arp
+Basic arp that has drums overlay. It is a very basic arp, made only using delayed bangs.
+
+![screen-gif](./basic_arp_demo.gif)
